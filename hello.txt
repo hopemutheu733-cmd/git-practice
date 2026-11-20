@@ -1,3 +1,2 @@
 Hello Git
 A second line
-This line is a mistake
